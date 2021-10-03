@@ -1,2 +1,6 @@
 # Group1-antwerpen_lab
-Darin Hamouda, Antwerpen.
+=======
+Members:
+- Mahmoud Abu Azoum, live in Antwerpen.
+- Darin Hamouda, Antwerpen.
+
