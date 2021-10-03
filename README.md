@@ -3,5 +3,5 @@
 Members:
 - Mahmoud Abu Azoum, live in Antwerpen.
 - Darin Hamouda, Antwerpen.
-- Nefn-Lakhouj, i live in Brasschaat.
+- Nefn-Lakhouj, i live in Brasschaat, im studying how to be a web devloper.
 
