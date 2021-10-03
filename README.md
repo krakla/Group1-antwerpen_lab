@@ -1,6 +1,6 @@
 # Group1-antwerpen_lab
 Members:
 - Mahmoud Abu Azoum, live in Antwerpen.
-- Darin
+- Darin Hamouda, Antwerpen.
 - Nefin
-- Omer Faruk, live in Antwerp.
+- Omer Faruk, live in Antwerp
